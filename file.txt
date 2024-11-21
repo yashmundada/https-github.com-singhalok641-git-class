@@ -1,9 +1,7 @@
-changes done by apoorva
 This is a change by guru
 This change is done by Sagar Shiroya.
 command to add files to the staging area
-
-if you want to add a specific file
+chanes done by yash mundada
 git add <file-name>
 
 if you want to add everything in the folder my_project
